@@ -1,6 +1,7 @@
 ---
 title: "datar"
-output: html_document
+output:
+  html_document: default
 date: "2024-05-19"
 ---
 
